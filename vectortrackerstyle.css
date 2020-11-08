@@ -1,0 +1,38 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+#video_container {
+	width: 70vw;
+}
+
+#video_element {
+	width: 1920px;
+	position: absolute;
+	top: 0;
+	left: 3vw;
+}
+
+#video_sidebar {
+	overflow-y: auto;
+	width: 20vw;
+	height: 90vh;
+}
+
+.sidebar_button {
+	width: 90%;
+	height: 50px;
+}
+
+.object_outline {
+	background-color: transparent;
+	outline: 3px dotted blue;
+	position: absolute;
+	z-index: 1;
+}
+
+mark {
+	background-color: blue;
+	color: white;
+}
