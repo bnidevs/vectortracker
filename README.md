@@ -14,3 +14,4 @@ Can also be repurposed as a general area organization tool, baby toy interest te
  - AWS SageMaker
  - AWS S3
  - AWS Lambda
+ - HTML/CSS/JS
