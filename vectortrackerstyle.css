@@ -30,6 +30,7 @@ body {
 	outline: 3px dotted blue;
 	position: absolute;
 	z-index: 1;
+	margin-left: 3vw;
 }
 
 mark {
